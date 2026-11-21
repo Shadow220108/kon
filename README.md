@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-<img width="600" alt="kon" src="images/case_front.png" />
+<img height="819" alt="image" src="https://github.com/user-attachments/assets/80acb6be-94ae-4cbc-8c0f-315a1c9cc95b" />
 <br>
 kon
 <br>
@@ -19,7 +19,7 @@ A little ESP32-S3 e-ink reader for books on a microSD card
 
 kon is a small e-reader I designed from scratch. It has a 4.26 inch 800 x 480 e-ink screen, reads .txt books off a microSD card, and you flip pages with 4 buttons on the side. It runs off a LiPo battery that charges over USB-C, and since e-ink only uses power when the page changes, the battery lasts ages. The PCB is made in KiCad and the case in Fusion 360.
 
-
+The render was designed in blender :p
 
 ## Features
 
