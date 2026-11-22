@@ -21,6 +21,9 @@ kon is a small e-reader I designed from scratch. It has a 4.26 inch 800 x 480 e-
 
 The render was designed in blender :p
 
+## Journals
+Journals were written after I was done with the project with my best memory and a help of AI, it has a total of about 46 hours! 
+
 ## Features
 
 - ESP32-S3-WROOM-1-N16R8, 16MB flash, 8MB PSRAM, WiFi and Bluetooth, native USB
